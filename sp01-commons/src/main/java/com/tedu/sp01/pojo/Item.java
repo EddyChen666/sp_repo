@@ -10,6 +10,7 @@ import lombok.NoArgsConstructor;
 //有注释
 //ok
 public class Item {
+	//mingbai
 	private Integer id;
 	private String name;
 	private Integer number;
